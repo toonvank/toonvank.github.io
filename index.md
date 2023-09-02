@@ -25,7 +25,7 @@ Year | School | Degree
 > SEP 2022 - JUN 2023
 ### Printsimple - mediaworqs
 * PHP Frameworks Drupal, [Laravel](https://www.laravel.com) & [Twill.io](https://twillcms.com)
-* Created Project Tracking Platform, download final presentation [here](/presentationMedia.pdf)
+* Created Project Tracking Platform (final presentation [here](/presentationMedia.pdf))
 * Backend CMS for [Libera](https://www.libera.be)
 
 > FEB 2019
@@ -40,6 +40,15 @@ Year | School | Degree
 > FEB 2017
 ### Primary School St-Jan Maasmechelen 
 * IT maintenance hardware installations and configurations
+
+## Projects
+### Spectrum
+* Fictional online shop for buying space craft and interplanitary trips (for more info see [here](/wpl2Logboek.pdf)
+
+### SESHApp
+* Android Music Player, Music Downloader and online shop client for music arist Elmo Kennedy O' Connor Github [Android](https://github.com/toonvank/2022SeshApp.git), [Android](https://github.com/toonvank/2022SeshApp.git) [Windows Client](https://github.com/toonvank/BoneAlbumDownloaderWindows) and Android [App Demo](https://youtu.be/-TMKff5HjkA).
+
+Android app is developed in .NET Maui and uses Firebase, [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager)
 
 ## Typography
 
