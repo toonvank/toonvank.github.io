@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+*You can contact me for custom project requests*
 
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [toonvankimmenade@gmail.com](toonvankimmenade@gmail.com)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+32489693234](tel:+32489693234)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://be.linkedin.com/in/toonvank)
