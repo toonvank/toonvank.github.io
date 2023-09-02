@@ -48,7 +48,7 @@ Year | School | Degree
 ### SESHApp
 * Android music player, music downloader and online storefornt for music arist Elmo Kennedy O' Connor Github [Android](https://github.com/toonvank/2022SeshApp.git), [Android](https://github.com/toonvank/2022SeshApp.git) [Windows Client](https://github.com/toonvank/BoneAlbumDownloaderWindows) and Android [App Demo](https://youtu.be/-TMKff5HjkA).
 
-Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) and uses [Firebase](https://firebase.google.com) as it's database for storing album files and user credentials, [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager), [Android.Media.MediaPlayer]https://developer.android.com/reference/android/media/MediaPlayer) 
+Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) and uses [Firebase](https://firebase.google.com) as it's database for storing album files and user credentials, [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager), [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
 ## Typography
 
