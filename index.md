@@ -10,7 +10,7 @@ Hi! I am a student Bachelor Applied Computer Sciences PXL at PXL University Hass
 
 ## Associates Degree Programming
 
-During my associates degree there was mainly a focus on .NET, specifically C#, .NET MAUI. During my 6 month internship at PrintSimple i learned PHP Content Management Systems like Drupal & Laravel, where i created a Project Tracking Platform in Laravel.
+During my associates degree there was mainly a focus on .NET, specifically C#, [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui). During my 6 month internship at [PrintSimple](https://www.printsimple.eu/) i learned PHP Content Management Systems like Drupal & Laravel, where i created a Project Tracking Platform in Laravel.
 
 ## Studies
 
@@ -24,15 +24,17 @@ Year | School | Degree
 
 > SEP 2022 - JUN 2023
 ### Printsimple - mediaworqs
-* PHP Frameworks Drupal, Laravel & Twill.io
+* PHP Frameworks Drupal, [Laravel](https://www.laravel.com) & [Twill.io](https://twillcms.com)
+* Created Project Tracking Platform, download final presentation [here](/presentationMedia.pdf)
+* Backend CMS for [Libera](https://www.libera.be)
 
 > FEB 2019
 ### Mecam Group Dilsen-Stokkem
-* C# project for human resources department
+* C# project for HR department
 * Laptop service (hardware) configuration and repair
 
 > FEB 2018
-### OCMW Maasmecheeln
+### OCMW Maasmechelen
 * Microsoft Office suite (Visual Basic in Excel) and varying IT-support
 
 > FEB 2017
