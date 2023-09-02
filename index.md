@@ -6,18 +6,19 @@ layout: default
 
 <img class="profile-picture" src="picture.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a student Bachelor Applied Computer Sciences PXL at PXL University Hasselt. Graduated with an associates degree at PXL in 2023.
 
-Hi! I am a student Bachelor Applied Computer Sciences PXL at PXL University Hasselt
+## Associates Degree Programming
 
-## Research Interest
+During my associates degree there was mainly a focus on .NET, specifically C#, .NET MAUI. During my 6 month internship at PrintSimple i learned PHP Content Management Systems like Drupal & Laravel, where i created a Project Tracking Platform in Laravel.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Studies
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Year | School | Degree
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2015 - 2019 | Satellite | Won Best Actor miniseries or television film
 
 ## Typography
 
@@ -25,11 +26,7 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+
 
 Here is a horizontal rule
 
@@ -37,7 +34,7 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> Sharing is good, and with digital technology, sharing is easy
 
 ## References
 
