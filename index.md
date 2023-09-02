@@ -16,9 +16,28 @@ During my associates degree there was mainly a focus on .NET, specifically C#, .
 
 Year | School | Degree
 -----|-------|--------
-2022 - 2023 | PXL Hasslet  | Associates Degree Programming
+2022 - 2023 | PXL Hasselt  | Associates Degree Programming
 2017 - 2020 | Provinciale Handelsschool Hasselt | Informaticabeheer
 2016 - 2018 | Stedelijke Humaniora Dilsen-Stokkem | ASO
+
+## Experience
+
+> SEP 2022 - JUN 2023
+### Printsimple - mediaworqs
+* PHP Frameworks Drupal, Laravel & Twill.io
+
+> FEB 2019
+### Mecam Group Dilsen-Stokkem
+* C# project for human resources department
+* Laptop service (hardware) configuration and repair
+
+> FEB 2018
+### OCMW Maasmecheeln
+* Microsoft Office suite (Visual Basic in Excel) and varying IT-support
+
+> FEB 2017
+### Primary School St-Jan Maasmechelen 
+* IT maintenance hardware installations and configurations
 
 ## Typography
 
