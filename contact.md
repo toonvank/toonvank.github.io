@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-*You can contact me for custom project requests*
+*You can contact me for custom project requests or any other serious inquiries*
 
 * Email: [toonvankimmenade@gmail.com](toonvankimmenade@gmail.com)
 
