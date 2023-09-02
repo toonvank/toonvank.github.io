@@ -16,9 +16,9 @@ During my associates degree there was mainly a focus on .NET, specifically C#, .
 
 Year | School | Degree
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2015 - 2019 | Satellite | Won Best Actor miniseries or television film
+2022 - 2023 | PXL Hasslet  | Associates Degree Programming
+2017 - 2020 | Provinciale Handelsschool Hasselt | Informaticabeheer
+2016 - 2018 | Stedelijke Humaniora Dilsen-Stokkem | ASO
 
 ## Typography
 
