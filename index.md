@@ -14,11 +14,12 @@ During my associates degree there was mainly a focus on .NET, specifically C#, [
 
 ## Studies
 
-Year | School | Degree
------|-------|--------
-2022 - 2023 | PXL Hasselt  | Associates Degree Programming
-2017 - 2020 | Provinciale Handelsschool Hasselt | Informaticabeheer
-2016 - 2018 | Stedelijke Humaniora Dilsen-Stokkem | ASO
+Year | School                                 | Degree
+-----|----------------------------------------|--------
+2022 - 2023 | PXL Hasselt                            | Associates Degree Programming
+2017 - 2020 | Provinciale Handelsschool Hasselt      | Informaticabeheer
+2016 - 2018 | Stedelijke Humaniora Dilsen-Stokkem    | ASO
+2015 - 2018 | Night Class Kunstacademie Maasmechelen | Digital Design
 
 ## Experience
 
@@ -46,27 +47,30 @@ Year | School | Degree
 * Group project with 5 excellent members finished during my associates degree. It's a fictional concept online shop for buying space craft and interplanitary trips (for more info see [here](/wpl2Logboek.pdf))
 
 ### SESHApp
-* Android music player, music downloader and online storefornt for music arist Elmo Kennedy O' Connor Github [Android](https://github.com/toonvank/2022SeshApp.git), [Android](https://github.com/toonvank/2022SeshApp.git) [Windows Client](https://github.com/toonvank/BoneAlbumDownloaderWindows) and Android [App Demo](https://youtu.be/-TMKff5HjkA).
+* Android music player, music downloader and online storefornt for music arist Elmo Kennedy O' Connor Github [Android](https://github.com/toonvank/2022SeshApp.git) [Windows Client](https://github.com/toonvank/BoneAlbumDownloaderWindows) and Android [App Demo](https://youtu.be/-TMKff5HjkA).
 
-Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) and uses [Firebase](https://firebase.google.com) as it's database for storing album files and user credentials, [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager), [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
+Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) and uses [Firebase](https://firebase.google.com) as it's database for storing album files and user credentials
 
 
+* [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager)
+* [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
-Here is a horizontal rule
+## Technologies
+I have experience with following technologies and use them in projects or on a daily basis
 
----
+* .NET (C#, WPF, ASP.NET, .NET MAUI)
+* JavaScript
+* SQL
+* PHP
+* Linux
+* Photoshop Toolkit
+* Microsoft Office Toolkit
 
-Here is a blockquote
-
-> Sharing is good, and with digital technology, sharing is easy
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Languages
+Language | Level        
+-----|--------------
+🇬🇧 English | **_NOVICE_** 
+🇳🇱 Dutch | **_MOTHER TONGUE_**
+🇫🇷 French | **_INTERMEDIATE_**
+🇬🇷 Greek | **_INTERMEDIATE_**
+🇩🇪 German  |**_BASIC_**
