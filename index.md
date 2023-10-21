@@ -5,6 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="picture.png">
+{% include share.html %}
 
 Hi! I am a student Bachelor Applied Computer Sciences at [PXL University Hasselt](https://www.pxl.be/), Belgium. Graduated with an associates degree in Programming in 2023.
 [Contact me](/contact)
