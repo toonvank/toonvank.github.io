@@ -1,7 +1,7 @@
 title: Toon Van Kimmenade
-url: "http://toonvank.online"
-baseurl: "/toonvank.online"
-domain: toonvank.online
+url: "http://toonvank.github.io"
+baseurl: "/toonvank.github.io"
+domain: toonvank.github.io
 
 markdown: kramdown
 ins_logo: "./pxl-logo.png"
