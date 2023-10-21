@@ -81,10 +81,10 @@ I have experience with following technologies and use them in projects or on a d
 * Firebase
 
 ## Languages
-Language | Level
------|----------------------------------------
-🇬🇧 English | **_NOVICE_** 
-🇳🇱 Dutch | **_MOTHER TONGUE_**
-🇫🇷 French | **_INTERMEDIATE_**
-🇬🇷 Greek | **_INTERMEDIATE_**
-🇩🇪 German | **_BASIC_**
+| Language  | Level         |
+|-----------|---------------|
+| 🇬🇧 English | NOVICE    |
+| 🇳🇱 Dutch   | MOTHER TONGUE |
+| 🇫🇷 French  | INTERMEDIATE |
+| 🇬🇷 Greek   | INTERMEDIATE |
+| 🇩🇪 German  | BASIC       |
