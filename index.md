@@ -58,8 +58,7 @@ Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet
 * [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
 ### Terminal Chess
-- Chess app developed in Java only using terminal
-[App Demo](https://github.com/toonvank/terminalChessJava)
+- [Chess terminal](https://github.com/toonvank/terminalChessJava) app developed in Java
 ## Technologies
 I have experience with following technologies and use them in projects or on a daily basis
 
