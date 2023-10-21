@@ -2,8 +2,6 @@
 layout: default
 ---
 
-//page index to all headers
-
 ## About Me
 
 <img class="profile-picture" src="picture.png">
@@ -51,6 +49,7 @@ Year | School                                 | Degree
 * IT maintenance hardware installations and configurations
 
 ## Projects
+#### projects not mentioned in experience
 ### Spectrum
 * Group project with five members finished during my associates degree. It's a fictional concept online shop for buying space craft and interplanitary trips (for more info see [here](/wpl2Logboek.pdf))
 
@@ -91,4 +90,4 @@ Language | Level
 🇳🇱 Dutch | **_MOTHER TONGUE_**
 🇫🇷 French | **_INTERMEDIATE_**
 🇬🇷 Greek | **_INTERMEDIATE_**
-🇩🇪 German | **_BASIC_
+🇩🇪 German | **_BASIC_**
