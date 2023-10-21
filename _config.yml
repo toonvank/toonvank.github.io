@@ -6,7 +6,7 @@ domain: toonvank.online
 markdown: kramdown
 ins_logo: "./pxl-logo.png"
 
-tracking_id: G-H6CDESNR1E
+tracking_id: "G-H6CDESNR1E"
 
 footer: yes
 footer_url: "https://github.com/toonvank"
@@ -24,5 +24,3 @@ nav:
 #   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-- name: "Blog"
-   link: "blog.toonvank.online"
