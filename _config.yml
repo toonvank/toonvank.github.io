@@ -10,7 +10,7 @@ tracking_id: G-H6CDESNR1E
 
 footer: yes
 #footer_url: "https://github.com/toonvank"
-footer_text: "My [GitHub profile](https://github.com/toonvank). Theme by [Ankit Sultana](https://github.com/ankitsultana/researcher).]"
+footer_text: "My <a href='https://github.com/toonvank'>GitHub</a>. Theme by <a href='https://github.com/ankitsultana/researcher'>Ankit Sultana</a>"
 remote_theme: ankitsultana/researcher@gem
 
 sass:
