@@ -19,8 +19,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Blog"
+   link: https://blog.toonvank.online/
