@@ -29,7 +29,7 @@ Year | School                                 | Degree
 ### Printsimple - mediaworqs
 * PHP Frameworks Drupal, [Laravel](https://www.laravel.com) & [Twill.io](https://twillcms.com)
 * Created Project Tracking Platform (final presentation [here](/presentationMedia.pdf))
-* Backend CMS for [Libera](https://www.libera.be)
+* Backend CMS for [Libera](https://www.libera.be). Developen in [Twill CMS](https://twillcms.com/), currently ported to Drupal
 
 > FEB 2019
 ### Mecam Group Dilsen-Stokkem
@@ -58,9 +58,9 @@ Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet
 * [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
 ### Terminal Chess
-- [Chess terminal](https://github.com/toonvank/terminalChessJava) app developed in Java
+- Developing [chess terminal app](https://github.com/toonvank/terminalChessJava) in Java
 ## Technologies
-I have experience with following technologies and use them in projects or on a daily basis
+I have experience with following technologies and use them in projects or on a daily basis at work or school.
 
 * .NET (C#, WPF, ASP.NET, .NET MAUI)
 * Java
@@ -71,10 +71,21 @@ I have experience with following technologies and use them in projects or on a d
 * Linux
 * Adobe Creative Cloud
 * Microsoft Office Toolkit
+* Working in scrum teams
+* Confluence & Jira
+* Jenkins
 
 ## Languages
 Language | Level        
 -----|------
+🇬🇧 English | **_NOVICE_** 
+🇳🇱 Dutch | **_MOTHER TONGUE_**
+🇫🇷 French | **_INTERMEDIATE_**
+🇬🇷 Greek | **_INTERMEDIATE_**
+🇩🇪 German | **_BASIC_**
+
+Language | Level
+-----|----------------------------------------
 🇬🇧 English | **_NOVICE_** 
 🇳🇱 Dutch | **_MOTHER TONGUE_**
 🇫🇷 French | **_INTERMEDIATE_**
