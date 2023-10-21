@@ -10,7 +10,7 @@ tracking_id: G-H6CDESNR1E
 
 footer: yes
 #footer_url: "https://github.com/toonvank"
-footer_text: "My <a href='https://github.com/toonvank'>GitHub</a>. Theme by <a href='https://github.com/ankitsultana/researcher'>Ankit Sultana</a>"
+footer_text: "<a href='https://github.com/toonvank'>My GitHub</a>. Theme by <a href='https://github.com/ankitsultana/researcher'>Ankit Sultana</a>"
 remote_theme: ankitsultana/researcher@gem
 
 sass:
@@ -18,10 +18,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: ""
  - name: "Resume"
-   link: "resume.pdf"
+   link: ""
+# - name: "Resume"
+#   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Blog"

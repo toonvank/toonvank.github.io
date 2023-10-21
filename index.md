@@ -2,11 +2,14 @@
 layout: default
 ---
 
+//page index to all headers
+
 ## About Me
 
 <img class="profile-picture" src="picture.png">
 
-Hi! I am a student Bachelor Applied Computer Sciences at PXL University Hasselt. Graduated with an associates degree at PXL in 2023.
+Hi! I am a student Bachelor Applied Computer Sciences at [PXL University Hasselt](https://www.pxl.be/), Belgium. Graduated with an associates degree in Programming in 2023.
+[Contact me](/contact)
 
 ## Associates Degree Programming
 
@@ -28,11 +31,11 @@ Year | School                                 | Degree
 > SEP 2022 - JUN 2023
 ### Printsimple - mediaworqs
 * PHP Frameworks Drupal, [Laravel](https://www.laravel.com) & [Twill.io](https://twillcms.com)
-* Created Project Tracking Platform (final presentation [here](/presentationMedia.pdf))
-* Backend CMS for [Libera](https://www.libera.be). Developen in [Twill CMS](https://twillcms.com/), currently ported to Drupal
+* Created Project Tracking Platform ([final presentation](/presentationMedia.pdf) and [summary](/samenvatting_Engels.pdf))
+* Backend CMS for [Libera](https://www.libera.be). Developed in [Twill CMS](https://twillcms.com/), currently ported to Drupal
 
 > FEB 2019
-### Mecam Group Dilsen-Stokkem
+### Mecam Group Dilsen-Stokkem  
 * C# project for HR department (Windows Forms) and product management
 * SQL Database management
 * ASP.NET Core project
@@ -88,4 +91,4 @@ Language | Level
 🇳🇱 Dutch | **_MOTHER TONGUE_**
 🇫🇷 French | **_INTERMEDIATE_**
 🇬🇷 Greek | **_INTERMEDIATE_**
-🇩🇪 German | **_BASIC_**
+🇩🇪 German | **_BASIC_
