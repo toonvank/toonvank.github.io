@@ -21,7 +21,7 @@ Year | School                                 | Degree
 2022 - 2023 | PXL Hasselt                            | Associates Degree Programming
 2017 - 2020 | Provinciale Handelsschool Hasselt      | Informaticabeheer
 2016 - 2018 | Stedelijke Humaniora Dilsen-Stokkem    | ASO
-2015 - 2018 | Night Class Kunstacademie Maasmechelen | Digital Design
+2015 - 2018 | Art Academy Maasmechelen | Graphic Design
 
 ## Experience
 
@@ -57,6 +57,9 @@ Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet
 * [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager)
 * [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
+### Terminal Chess
+- Chess app developed in Java only using terminal
+[App Demo](https://github.com/toonvank/terminalChessJava)
 ## Technologies
 I have experience with following technologies and use them in projects or on a daily basis
 
