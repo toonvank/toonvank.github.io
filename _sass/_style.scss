@@ -134,22 +134,44 @@ hr {
 // CSS ICON SOCIAL
 /* Share buttons */
 .sharebuttons {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
-
-.profile-picture {
-  margin-right: 10px; /* Adjust the margin as needed */
+  margin: 0 auto 0 auto;
+  float: right;
 }
 
 .sharebuttons ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
+  margin: 20px 0 0 0;
+  text-align: center;
 }
 
-.sharebuttons li {
-  margin-right: 10px; /* Adjust the margin between the links as needed */
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+}
+
+.sharebuttons ul li svg {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+
+.sharebuttons .twitter svg {
+  fill: #1DA1F2 !important;
+}
+
+.sharebuttons .linkedin svg {
+  fill: #0077B5 !important;
+}
+
+.sharebuttons .github svg {
+  fill: #181717 !important;
+}
+
+.sharebuttons .researchgate svg {
+  fill: #00CCBB !important;
+}
+.content ul{
+        padding: 0 0px 0 20px;
 }

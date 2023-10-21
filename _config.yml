@@ -18,11 +18,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "about"
    link: ""
 # - name: "Resume"
 #   link: "resume.pdf"
- - name: "Contact"
+ - name: "contact"
    link: "contact"
- - name: "Blog"
+ - name: "blog"
    link: https://blog.toonvank.online/
