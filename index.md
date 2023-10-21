@@ -33,12 +33,15 @@ Year | School                                 | Degree
 
 > FEB 2019
 ### Mecam Group Dilsen-Stokkem
-* C# project for HR department
-* Laptop service (hardware) configuration and repair
+* C# project for HR department (Windows Forms) and product management
+* SQL Database management
+* ASP.NET Core project
+* Laptop service (hardware) configuration and repair: routers, laptops, desktops, printers, ...
+* Video editing
 
 > FEB 2018
 ### OCMW Maasmechelen
-* Microsoft Office suite (Visual Basic in Excel) and varying IT-support
+* Microsoft Office suite (Visual Basic in Excel) and varying IT-support tasks (hardware)
 
 > FEB 2017
 ### Primary School St-Jan Maasmechelen 
@@ -52,7 +55,6 @@ Year | School                                 | Degree
 * Android music player, music downloader and online storeforn for music arist Elmo Kennedy O' Connor Github [Android](https://github.com/toonvank/2022SeshApp.git) [Windows Client](https://github.com/toonvank/BoneAlbumDownloaderWindows) and Android [App Demo](https://youtu.be/-TMKff5HjkA).
 
 Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui) and uses [Firebase](https://firebase.google.com) as it's database for storing album files and user credentials
-
 
 * [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager)
 * [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
@@ -76,14 +78,6 @@ I have experience with following technologies and use them in projects or on a d
 * Jenkins
 
 ## Languages
-Language | Level        
------|------
-🇬🇧 English | **_NOVICE_** 
-🇳🇱 Dutch | **_MOTHER TONGUE_**
-🇫🇷 French | **_INTERMEDIATE_**
-🇬🇷 Greek | **_INTERMEDIATE_**
-🇩🇪 German | **_BASIC_**
-
 Language | Level
 -----|----------------------------------------
 🇬🇧 English | **_NOVICE_** 

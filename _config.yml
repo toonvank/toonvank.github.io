@@ -1,17 +1,17 @@
 title: Toon Van Kimmenade
-url: "http://toonvank.github.io"
-baseurl: "/toonvank.github.io"
-domain: toonvank.github.io
+url: "http://toonvank.online"
+baseurl: "/toonvank.online"
+domain: toonvank.online
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./pxl-logo.png"
 
 tracking_id: G-H6CDESNR1E
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-remote_theme: ankitsultana/researcher@gem
+footer_url: "https://github.com/toonvank"
+footer_text: "Github"
+remote_theme: amitmerchant1990/reverie@gem
 
 sass:
     style: compressed
