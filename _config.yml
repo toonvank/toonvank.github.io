@@ -9,8 +9,8 @@ ins_logo: "./pxl-logo.png"
 tracking_id: G-H6CDESNR1E
 
 footer: yes
-footer_url: "https://github.com/toonvank"
-footer_text: "Github"
+#footer_url: "https://github.com/toonvank"
+footer_text: "My [GitHub profile](https://github.com/toonvank). Theme by [Ankit Sultana](https://github.com/ankitsultana/researcher).]"
 remote_theme: ankitsultana/researcher@gem
 
 sass:
