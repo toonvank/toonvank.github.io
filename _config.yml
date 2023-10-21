@@ -1,4 +1,4 @@
-title: "Toon Van Kimmenade"
+title: Toon Van Kimmenade
 url: "http://toonvank.online"
 baseurl: "/toonvank.online"
 domain: toonvank.online
@@ -6,7 +6,7 @@ domain: toonvank.online
 markdown: kramdown
 ins_logo: "./pxl-logo.png"
 
-tracking_id: "G-H6CDESNR1E"
+tracking_id: G-H6CDESNR1E
 
 footer: yes
 footer_url: "https://github.com/toonvank"
@@ -20,7 +20,7 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
-# - name: "Resume"
-#   link: "resume.pdf"
+ - name: "Resume"
+  link: "resume.pdf"
  - name: "Contact"
    link: "contact"
