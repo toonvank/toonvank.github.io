@@ -11,7 +11,7 @@ tracking_id: "G-H6CDESNR1E"
 footer: yes
 footer_url: "https://github.com/toonvank"
 footer_text: "Github"
-remote_theme: amitmerchant1990/reverie@gem
+remote_theme: ankitsultana/researcher@gem
 
 sass:
     style: compressed
