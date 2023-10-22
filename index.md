@@ -2,6 +2,9 @@
 layout: default
 ---
 
+* TOC
+{:toc}
+
 {% include share.html %}
 
 Hi! I am a student Bachelor Applied Computer Sciences at [PXL University Hasselt](https://www.pxl.be/), Belgium. Graduated with an associates degree in Programming in 2023.
@@ -50,7 +53,6 @@ Year | School                                 | Degree | Status
 * IT maintenance hardware installations and configurations
 
 ## Projects
-#### projects not mentioned in experience
 ### Spectrum
 * Group project with five members finished during my associates degree. It's a fictional concept online shop for buying space craft and interplanitary trips (for more info see [here](/wpl2Logboek.pdf))
 
@@ -80,7 +82,7 @@ I have experience with following technologies and use them in projects or on a d
 * Confluence & Jira
 * Jenkins
 * Docker
-* Git & Github
+* Git
 * Firebase
 
 ## Languages

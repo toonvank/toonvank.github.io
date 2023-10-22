@@ -24,6 +24,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
+kramdown:
+  enable_toc: true
+
+
 nav:
  - name: "about"
    link: ""
