@@ -53,6 +53,17 @@
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
 </head>
+{% if site.tracking_id %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H6CDESNR1E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H6CDESNR1E');
+</script>
+{% endif %}
 <body>
     <div class="wrapper">
         <div class="navbar container">
@@ -102,15 +113,6 @@
           ga('create', '{{ site.tracking_id }}', 'auto');
           ga('send', 'pageview');
         </script>
-        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H6CDESNR1E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H6CDESNR1E');
-</script
     {% endif %}
 </body>
 <footer>
