@@ -74,7 +74,8 @@ I have experience with following technologies and use them in projects or on a d
 * C++
 * JavaScript
 * SQL
-* PHP
+* PHP (Laravel, Drupal, Twill CMS)
+* Python
 * Linux
 * Adobe Creative Cloud
 * Microsoft Office Toolkit
