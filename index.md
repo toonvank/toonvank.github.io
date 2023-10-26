@@ -77,7 +77,7 @@ I have experience with following technologies and use them in projects or on a d
 * PHP (Laravel, Drupal, Twill CMS)
 * Python
 * Linux
-* Adobe Creative Cloud
+* Adobe Creative Cloud Suite (Photoshop, Premiere, Illustrator, After Effects, Lightroom) ([see some designs here](/design))
 * Microsoft Office Toolkit
 * Working in scrum teams
 * Confluence & Jira
