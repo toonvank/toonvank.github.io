@@ -66,6 +66,7 @@ Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet
 
 ### Terminal Chess
 - Developing [chess terminal app](https://github.com/toonvank/terminalChessJava) in Java
+
 ## Technologies
 I have experience with following technologies and use them in projects or on a daily basis, at work, school or in certain projects i've worked on
 
