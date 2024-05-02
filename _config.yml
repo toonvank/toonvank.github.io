@@ -27,7 +27,6 @@ sass:
 kramdown:
   enable_toc: true
 
-
 nav:
  - name: "about"
    link: ""
@@ -39,3 +38,6 @@ nav:
    link: https://blog.toonvank.online/
  - name: "design"
    link: "design"
+   
+plugins: 
+    - jekyll-feed
