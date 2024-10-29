@@ -3,9 +3,12 @@
 .content {
     a:hover {
         text-decoration: underline;
+        color: #fabd2f; /* Gruvbox yellow on hover */
     }
     ol {
         counter-reset: list;
+        padding: 0 30px;
+        color: #ebdbb2; /* Gruvbox foreground */
     }
     ol > li {
         list-style-position: none;
@@ -14,27 +17,26 @@
         margin-top: 5px;
         margin-bottom: 5px;
     }
-    ul > li {
-        margin: 5px 0 5px 0;
-    }
     ul {
-        padding: 0 20px 0 20px;;
+        padding: 0 20px;
+        color: #ebdbb2;
     }
-    ol {
-        padding: 0 30px 0 30px;
+    ul > li {
+        margin: 5px 0;
     }
     ol > li:before {
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
         position: absolute;
         left: -30px;
+        color: #d65d0e; /* Gruvbox orange for list numbers */
     }
     blockquote {
-        //border: 1px solid black;
-        border-left: 5px solid #333333;
-        margin: 20px 0 20px 0;
-        padding: 2px 8px 2px 8px;
+        border-left: 5px solid #665c54; /* Gruvbox gray */
+        margin: 20px 0;
+        padding: 2px 8px;
         font-style: italic;
+        color: #b8bb26; /* Gruvbox green */
     }
     .profile-picture {
         height: $image-size;
@@ -43,6 +45,7 @@
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 50%;
+        border: 2px solid #928374; /* Gruvbox light gray border */
         p & {
             padding: 0;
             margin: 0;
@@ -56,5 +59,6 @@
     img {
         text-align: center;
         width: 100%;
+        border: 1px solid #504945; /* Gruvbox darker gray for image border */
     }
 }

@@ -1,151 +1,155 @@
 @import "vars";
 
-/*
- * Basic
- */
+/* Basic */
 
 html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 body {
-    margin: 0;
-    font-family: "Inconsolata";
-    height: 100%;
+  margin: 0;
+  font-family: "Inconsolata";
+  height: 100%;
+  background-color: #282828; /* Gruvbox dark background */
+  color: #ebdbb2; /* Gruvbox foreground */
 }
 a {
-    text-decoration: none;
-    color: $accent;
+  text-decoration: none;
+  color: #d79921; /* Gruvbox yellow accent */
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  color: #fabd2f; /* Lighter Gruvbox yellow on hover */
 }
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(235, 219, 178, 0.2); /* Gruvbox foreground lighter */
+  border-bottom: 1px solid rgba(235, 219, 178, 0.1);
 }
 
-/*
- * Navbar
- */
+/* Navbar */
 
 #author-name {
-    font-size: 20px;
-    color: #272727;
-    display: inline-block;
+  font-size: 20px;
+  color: #d65d0e; /* Gruvbox orange */
+  display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+  padding: 15px 20px; /* Reduced padding for a cleaner appearance */
+  background-color: #3c3836; /* Gruvbox dark gray background */
+  border-bottom: 2px solid #504945; /* Subtle Gruvbox dark border for separation */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
 .navbar-ul {
-    display: inline-block;
-    margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 20px;
+  display: inline-block;
+  margin: 0;
+  padding: 5px 0;
 }
 .nav-list {
-    list-style-type: none;
-    margin: 0 5px 0 10px;
+  list-style-type: none;
+  margin: 0 5px 0 10px;
+  color: #ebdbb2;
 }
 .alignable {
-    display: inline-block;
+  display: inline-block;
 }
 .pull-left {
-    @extend .alignable;
-    float: left;
+  @extend .alignable;
+  float: left;
 }
 .pull-right {
-    @extend .alignable;
-    float: right;
+  @extend .alignable;
+  float: right;
 }
 
-/* Divs */
+/* Container */
 
 .container {
-    max-width: $max-width;
-    margin: auto;
+  max-width: $max-width;
+  margin: auto;
 }
 .wrapper {
-    min-height: 100%;
+  min-height: 100%;
 }
 
 /* Institute Image */
 
 #ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+  margin: auto;
+  display: block;
+  max-height: 100px;
+  text-align: center;
 }
 
 /* Mobile */
 
 @media (max-width: 800px) {
-    .container {
-        max-width: $med-width;
-        transition: 0.3s ease all;
-    }
+  .container {
+    max-width: $med-width;
+    transition: 0.3s ease all;
+  }
 }
 
 @media (max-width: 650px) {
-    .container {
-        max-width: 83%;
-    }
-    .navbar-ul {
-        margin-top: 5px;
-    }
+  .container {
+    max-width: 83%;
+  }
+  .navbar-ul {
+    margin-top: 5px;
+  }
 }
 
 @media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#author-name {
-		width: 100%;
-		float: none;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
-	#navlist li.pull-left {
-		float: none;
-	}
-	#navlist li.nav-list {
-		margin: 0;
-	}
+  .navbar {
+    text-align: center;
+    padding: 20px 0;
+  }
+  #author-name {
+    width: 100%;
+    float: none;
+  }
+  #navlist {
+    padding: 10px 0;
+    margin: 0;
+    display: block;
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+  #navlist li.alignable {
+    display: inline-block;
+  }
+  #navlist li.pull-left {
+    float: none;
+  }
+  #navlist li.nav-list {
+    margin: 0;
+  }
 }
 
 @media (max-width: 570px) {
-    .map-view{
-        display: none;
-    }
+  .map-view {
+    display: none;
+  }
 }
 
 @import "typography";
 @import "tables";
 
-
-// CSS ICON SOCIAL
+/* CSS ICON SOCIAL */
 /* Share buttons */
 .sharebuttons {
-  margin: 0 auto 0 auto;
+  margin: 0 auto;
   float: right;
 }
 
 .sharebuttons ul {
-  margin: 20px 0 0 0;
+  margin: 20px 0 0;
   text-align: center;
 }
 
@@ -162,22 +166,123 @@ hr {
   height: 24px !important;
 }
 
-
+/* Gruvbox theme colors for icons */
 .sharebuttons .twitter svg {
-  fill: #1DA1F2 !important;
+  fill: #458588 !important; /* Gruvbox blue */
 }
-
 .sharebuttons .linkedin svg {
-  fill: #0077B5 !important;
+  fill: #689d6a !important; /* Gruvbox green */
 }
-
 .sharebuttons .github svg {
-  fill: #181717 !important;
+  fill: #b16286 !important; /* Gruvbox purple */
+}
+.sharebuttons .researchgate svg {
+  fill: #d79921 !important; /* Gruvbox yellow */
 }
 
-.sharebuttons .researchgate svg {
-  fill: #00CCBB !important;
+.content ul {
+  padding: 0 0px 0 20px;
+  color: #ebdbb2; /* Gruvbox foreground */
 }
-.content ul{
-        padding: 0 0px 0 20px;
+
+/* Tables */
+
+table {
+  margin: 15px 0;
+  border-collapse: collapse;
+  width: 100%;
+  padding: 0;
+  color: #ebdbb2; /* Gruvbox foreground */
+}
+table tr {
+  border-top: 1px solid #504945;
+  background-color: #3c3836; /* Gruvbox dark gray */
+  margin: 0;
+  padding: 0;
+}
+table tr:nth-child(2n) {
+  background-color: #282828; /* Alternating row color */
+}
+table tr th {
+  font-weight: bold;
+  border: 1px solid #504945;
+  text-align: left;
+  padding: 6px 13px;
+  color: #d79921; /* Gruvbox yellow */
+}
+table tr td {
+  border: 1px solid #504945;
+  text-align: left;
+  padding: 6px 13px;
+}
+table tr th:first-child, table tr td:first-child {
+  margin: 0;
+}
+table tr th:last-child, table tr td:last-child {
+  margin: 0;
+}
+
+/* Additional Content Styling */
+
+.content {
+  a:hover {
+    text-decoration: underline;
+    color: #fabd2f;
+  }
+  ol {
+    counter-reset: list;
+    padding: 0 30px;
+    color: #ebdbb2;
+  }
+  ol > li {
+    list-style-position: none;
+    position: relative;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  ul {
+    padding: 0 20px;
+    color: #ebdbb2;
+  }
+  ul > li {
+    margin: 5px 0;
+  }
+  ol > li:before {
+    content: "[" counter(list, decimal) "] ";
+    counter-increment: list;
+    position: absolute;
+    left: -30px;
+    color: #d65d0e;
+  }
+  blockquote {
+    border-left: 5px solid #665c54;
+    margin: 20px 0;
+    padding: 2px 8px;
+    font-style: italic;
+    color: #b8bb26;
+  }
+  .profile-picture {
+    height: $image-size;
+    width: $image-size;
+    position: relative;
+    margin: -10px 0 0 15px;
+    float: right;
+    border-radius: 50%;
+    border: 2px solid #928374;
+    p & {
+      padding: 0;
+      margin: 0;
+    }
+    @media (max-width: $small-width) {
+      img {
+        margin-top: -5px;
+      }
+    }
+  }
+  img {
+    text-align: center;
+    width: 100%;
+    border: 1px solid #504945;
+  }
 }

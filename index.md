@@ -9,7 +9,7 @@ layout: default
 
 Hi! I am a student Bachelor Applied Computer Sciences at [PXL University Hasselt](https://www.pxl.be/), Belgium. Graduated with an associates degree in Programming in 2023.
 
-Currently working on [chess terminal app](https://github.com/toonvank/terminalChessJava)
+[Contact me](/contact) if you have any questions or want to get in touch
 
 ## Associates Degree Programming
 
@@ -96,5 +96,3 @@ Language | Level
 🇫🇷 French | INTERMEDIATE
 🇬🇷 Greek | INTERMEDIATE
 🇩🇪 German | BASIC
-
-[Contact me](/contact) if you have any questions or want to get in touch

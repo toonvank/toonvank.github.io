@@ -88,7 +88,6 @@
             </ul>
         </div>
         <div style="clear:both"></div>
-        <hr>
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
@@ -97,9 +96,7 @@
         <div class="container content"></div>
                 {{ content }}
                 {% if site.footer == true %}
-                    <hr />
                     <p style="text-align: center; padding-bottom: 5px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>

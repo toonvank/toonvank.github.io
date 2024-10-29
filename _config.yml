@@ -12,7 +12,7 @@ ins_logo: "./pxl-logo.png"
 
 tracking_id: G-H6CDESNR1E
 
-footer: yes
+footer: no
 #footer_url: "https://github.com/toonvank"
 footer_text: "Theme by <a href='https://github.com/ankitsultana/researcher'>Ankit Sultana</a>"
 remote_theme: ankitsultana/researcher@gem
