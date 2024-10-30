@@ -34,8 +34,6 @@ nav:
 #   link: "resume.pdf"
  - name: "contact"
    link: "contact"
- - name: "blog"
-   link: https://blog.toonvank.online/
  - name: "design"
    link: "design"
    

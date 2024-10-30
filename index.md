@@ -9,13 +9,17 @@ layout: default
 
 Hi! I am a student Bachelor Applied Computer Sciences at [PXL University Hasselt](https://www.pxl.be/), Belgium. Graduated with an associates degree in Programming in 2023.
 
-[Contact me](/contact) if you have any questions or want to get in touch
-
 ## Associates Degree Programming
 
-During my associates degree there was mainly a focus on .NET, specifically C#, [.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
+During my associates degree there was mainly a focus on .NET, specifically C#
 
 During my 6 month internship at [PrintSimple](https://www.printsimple.eu/) i learned PHP Content Management Systems like Drupal & Laravel, where i created a Project Tracking Platform in Laravel
+
+## Bachelors Degree Programming
+
+During my associates degree there was mainly a focus on Java Spring, node development
+I chose to continue my studies due to the fact i want to delve deeper into different concepts besides the programming itself, 
+such as Docker, Design Patterns, Linux to elevate my skills besides what i've learnt from my associates degree
 
 ## Studies
 
@@ -64,30 +68,45 @@ Android app is developed in [.NET MAUI](https://learn.microsoft.com/en-us/dotnet
 * [Xamarin CrossDownloadManager](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager)
 * [Android.Media.MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer) 
 
-### Terminal Chess
-- Developing [chess terminal app](https://github.com/toonvank/terminalChessJava) in Java
-
 ## Technologies
 I have experience with following technologies and use them in projects or on a daily basis, at work, school or in certain projects i've worked on
 
-* .NET (C#, WPF, ASP.NET, .NET MAUI)
-* Java
-* C++
-* JavaScript
-* SQL
-* PHP (Laravel, Drupal, Twill CMS)
-* Python
-* Linux
-* Adobe Creative Cloud Suite (Photoshop, Premiere, Illustrator, After Effects, Lightroom) ([see some designs here](/design))
-* Microsoft Office Toolkit
-* Working in scrum teams
-* Confluence & Jira
-* Jenkins
-* Docker
-* Git
-* Firebase
+## Skill Proficiency
 
-## Languages
+| Skill                        | Proficiency                            |
+|------------------------------|----------------------------------------|
+| .NET (C#, WPF, ASP.NET, .NET MAUI) | `███████████████████▒▒▒▒▒▒▒▒▒▒▒▒` 85% |
+| Java                         | `████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 75% |
+| JavaScript                   | `███████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒` 80% |
+| SQL                          | `███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 70% |
+| PHP (Laravel)                | `█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 65% |
+| Python                       | `███████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒` 80% |
+| Linux                        | `████████████████████████▒▒▒▒▒▒▒▒` 90% |
+| Adobe Creative Cloud Suite   | `███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 60% |
+| Microsoft Office Toolkit     | `███████████████████▒▒▒▒▒▒▒▒▒▒▒▒` 85% |
+| Agile Development            | `████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 75% |
+| Atlassian Tools & Azure      | `███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 70% |
+| Jenkins                      | `█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 65% |
+| Docker                       | `███████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒` 85% |
+| Git                          | `████████████████████████▒▒▒▒▒▒▒▒` 90% |
+| Firebase/Appwrite            | `████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒` 75% |
+
+## Skill Proficience
+<img src="https://img.shields.io/badge/.NET-Advanced-blue?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Java-Intermediate-green?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/SQL-Proficient-orange?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/PHP-Advanced-lightgrey?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Linux-Proficient-brightgreen?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-Advanced-lightgrey?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-Expert-blue?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Agile%20Development-Proficient-green?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Atlassian%20Tools%20&%20Azure-Intermediate-yellow?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Jenkins-Proficient-lightgrey?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Docker-Advanced-blue?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Git-Advanced-brightgreen?style=flat-square" style="width: 120px !important;height: 30px !important;" />
+<img src="https://img.shields.io/badge/Firebase%2FAppwrite-Expert-orange?style=flat-square" style="width: 120px !important;height: 30px !important;" />
 
 Language | Level
 -----|----------------------------------------
@@ -96,3 +115,5 @@ Language | Level
 🇫🇷 French | INTERMEDIATE
 🇬🇷 Greek | INTERMEDIATE
 🇩🇪 German | BASIC
+
+<br>
