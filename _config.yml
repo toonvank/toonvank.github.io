@@ -29,13 +29,12 @@ kramdown:
 
 nav:
  - name: "about"
-   link: ""
-# - name: "Resume"
-#   link: "resume.pdf"
- - name: "contact"
-   link: "contact"
+   link: "index"
  - name: "design"
    link: "design"
+ - name: "contact"
+   link: "contact"
+
    
 plugins: 
     - jekyll-feed
